@@ -2,7 +2,4 @@
 코딩테스트 대비 알고리즘 문제 풀이
 
 ## BOJ
-### 3단계 15552.kt
->JAVA의 Scanner.next()와 System.out.println()</br>
->Kotlin의 readLine()과 println() 보다 빠른 속도의 입출력으로 사용되는</br>
->**BufferedReader**와 **BufferedWriter** 사용
+[3단계 15552.kt](https://velog.io/@mingyun12304/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-BOJ-15552%EB%B2%88)
